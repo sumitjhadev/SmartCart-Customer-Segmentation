@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 SmartCart Customer Segmentation
+# 🛒 SmartCart Customer Segmentation.
 
 ### Discovering Hidden Customer Patterns with Unsupervised Machine Learning
 
