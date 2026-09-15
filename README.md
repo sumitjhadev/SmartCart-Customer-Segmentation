@@ -2,7 +2,7 @@
 
 # 🛒 SmartCart Customer Segmentation.
 
-### Discovering Hidden Customer Patterns with Unsupervised Machine Learning
+### Discovering Hidden Customer Patterns with Unsupervised Machine Learning.
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-Unsupervised-6C63FF?style=for-the-badge" />
